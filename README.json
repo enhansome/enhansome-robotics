@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30324
+            "stars": 30327
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74070
+            "stars": 74077
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28778
+            "stars": 28781
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23504
+            "stars": 23506
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 15899
+            "stars": 15907
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3018
+            "stars": 3019
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1476
+            "stars": 1477
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:18.651Z",
+    "last_updated": "2026-08-20T04:21:13.025Z",
     "original_repository": "kiloreux/awesome-robotics",
     "original_repository_id": 46938122,
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
