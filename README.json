@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30350
+            "stars": 30352
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74121
+            "stars": 74132
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28797
+            "stars": 28801
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23511
+            "stars": 23513
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16067
+            "stars": 16101
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3023
+            "stars": 3025
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:22:42.796Z",
+    "last_updated": "2026-08-24T04:29:07.385Z",
     "original_repository": "kiloreux/awesome-robotics",
     "original_repository_id": 46938122,
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
