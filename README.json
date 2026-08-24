@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "description": "Gazebo Robot Simulator\nROS The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.\nROS2 ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.\nRobWork RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.\nMRPT Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.\nRobotics Library The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.\nSimbad 2D/3D simulator in Java and Jython.\nMorse General purpose indoor/outdoor 3D simulator.\nCarmen CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.\nPeekabot Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.\nYARP Yet Another Robot Platform.\nV-REP Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.\nWebots Webots is a development environment used to model, program and simulate mobile robots.\nDrake A planning, control and analysis toolbox for nonlinear dynamical systems.\nNeurorobotics Platform (NRP) An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.\nThe Player Project Free Software tools for robot and sensor applications\nViSP Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open AI's Roboschool",
+          "description": "Open-source software for robot simulation, integrated with OpenAI Gym.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 91389763,
+            "language": "Python",
+            "last_commit": "2023-04-02T11:37:04Z",
+            "owner": "openai",
+            "repo": "roboschool",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Behavior Trees",
+          "description": "Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34942316,
+            "language": "C++",
+            "last_commit": "2018-10-22T06:58:51Z",
+            "owner": "miccol",
+            "repo": "ROS-Behavior-Tree",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2core",
+          "description": "Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8676812,
+            "language": "C++",
+            "last_commit": "2023-07-20T18:21:21Z",
+            "owner": "synthetos",
+            "repo": "g2",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ur5controller",
+          "description": "Open-source OpenRAVE controller for UR5 robot integrated with ROS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109990655,
+            "language": "Python",
+            "last_commit": "2020-06-22T09:36:33Z",
+            "owner": "roboticsleeds",
+            "repo": "ur5controller",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBDL",
+          "description": "Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208891294,
+            "language": "C++",
+            "last_commit": "2025-06-09T20:32:53Z",
+            "owner": "rbdl",
+            "repo": "rbdl",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Robotics Hub",
+          "description": "Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298347380,
+            "language": "C#",
+            "last_commit": "2024-11-26T12:02:53Z",
+            "owner": "Unity-Technologies",
+            "repo": "Unity-Robotics-Hub",
+            "stars": 2563
+          }
+        }
+      ],
+      "title": "Software and Libraries"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15,7 +111,7 @@
             "last_commit": "2026-08-17T20:03:09Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30352
+            "stars": 30355
           }
         },
         {
@@ -51,7 +147,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74132
+            "stars": 74141
           }
         },
         {
@@ -66,7 +162,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28801
+            "stars": 28804
           }
         },
         {
@@ -81,7 +177,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23513
+            "stars": 23517
           }
         },
         {
@@ -96,7 +192,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16101
+            "stars": 16117
           }
         },
         {
@@ -126,7 +222,7 @@
             "last_commit": "2023-05-25T22:25:44Z",
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9917
+            "stars": 9918
           }
         },
         {
@@ -209,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:29:07.385Z",
+    "last_updated": "2026-08-24T13:52:18.981Z",
     "original_repository": "kiloreux/awesome-robotics",
     "original_repository_id": 46938122,
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
