@@ -1,6 +1,6 @@
 # Awesome Robotics with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,671 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -218,7 +218,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,807 | 🐛 84 | 📅 2025-05-26
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,123 | 🐛 70 | 🌐 Python | 📅 2026-08-15
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,124 | 🐛 70 | 🌐 Python | 📅 2026-08-15
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 9,919 | 🐛 7 | 📅 2023-05-25
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,026 | 🐛 14 | 🌐 Python | 📅 2026-08-06
