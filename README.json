@@ -111,7 +111,7 @@
             "last_commit": "2026-08-24T20:02:57Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30371
+            "stars": 30393
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-24T19:57:48Z",
+            "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74157
+            "stars": 74177
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28811
+            "stars": 28814
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23517
+            "stars": 23520
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16180
+            "stars": 16215
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11185
+            "stars": 11186
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-05-25T22:25:44Z",
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9919
+            "stars": 9922
           }
         },
         {
@@ -305,9 +305,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:24:25.749Z",
-    "original_repository": "kiloreux/awesome-robotics",
-    "original_repository_id": 46938122,
+    "last_updated": "2026-08-27T11:59:59.833Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 46938122,
+      "language": null,
+      "last_commit": "2024-09-22T20:24:10Z",
+      "owner": "kiloreux",
+      "repo": "awesome-robotics",
+      "stars": 6983
+    },
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
     "enhanced_repository": "enhansome/enhansome-robotics",
     "enhanced_repository_description": null,
