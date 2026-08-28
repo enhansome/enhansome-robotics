@@ -16,7 +16,8 @@
             "owner": "openai",
             "repo": "roboschool",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "miccol",
             "repo": "ROS-Behavior-Tree",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "synthetos",
             "repo": "g2",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "roboticsleeds",
             "repo": "ur5controller",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "rbdl",
             "repo": "rbdl",
             "stars": 705
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2566
-          }
+            "stars": 2568
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         }
       ],
       "title": "Software and Libraries"
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-24T20:02:57Z",
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30394
-          }
+            "stars": 30402
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "mithi",
             "repo": "hexapod",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         }
       ],
       "title": "Misc"
@@ -144,11 +152,12 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74179
-          }
+            "stars": 74195
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28815
-          }
+            "stars": 28824
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
             "stars": 23520
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16218
-          }
+            "stars": 16237
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
             "stars": 11186
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "aikorea",
             "repo": "awesome-rl",
             "stars": 9922
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
             "stars": 3027
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -252,8 +267,9 @@
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2132
-          }
+            "stars": 2133
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -267,8 +283,9 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1479
-          }
+            "stars": 1480
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "fkromer",
             "repo": "awesome-gazebo",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         },
         {
           "node_type": "item",
@@ -298,14 +316,15 @@
             "owner": "robocup-junior",
             "repo": "awesome-rcj-soccer",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T15:40:53.542Z"
         }
       ],
       "title": "Related awesome lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:46:33.038Z",
+    "last_updated": "2026-08-28T15:40:53.542Z",
     "original_repository_info": {
       "archived": false,
       "id": 46938122,
@@ -313,7 +332,7 @@
       "last_commit": "2024-09-22T20:24:10Z",
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 6984
+      "stars": 6985
     },
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
     "enhanced_repository": "enhansome/enhansome-robotics",
