@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
+            "homepage": null,
             "id": 91389763,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-02T11:37:04Z",
+            "open_issues": 83,
             "owner": "openai",
             "repo": "roboschool",
-            "stars": 2169
+            "stars": 2169,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behavior Trees Library for ROS (Robot Operating System). In C++ and python ",
+            "homepage": null,
             "id": 34942316,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-10-22T06:58:51Z",
+            "open_issues": 2,
             "owner": "miccol",
             "repo": "ROS-Behavior-Tree",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "behavior-tree",
+              "behavior-trees",
+              "ros"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -42,12 +56,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "g2core - The Next Generation",
+            "homepage": null,
             "id": 8676812,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-20T18:21:21Z",
+            "open_issues": 138,
             "owner": "synthetos",
             "repo": "g2",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "3d-printing",
+              "cnc",
+              "cnc-controller",
+              "gcode",
+              "lasercutter",
+              "motion-planning",
+              "plasma-cutter"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -58,12 +85,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenRAVE Controller Plugin for UR5 (Universal Robots UR5) Robot",
+            "homepage": null,
             "id": 109990655,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-22T09:36:33Z",
+            "open_issues": 0,
             "owner": "roboticsleeds",
             "repo": "ur5controller",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "openrave",
+              "openrave-conroller",
+              "plugin",
+              "robotics",
+              "ros",
+              "ur5",
+              "ur5-robot"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -74,12 +114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RBDL is a C++ library that contains some essential and efficient rigid body dynamics algorithms such as the Articulated Body Algorithm (ABA) for forward dynamics, Recursive Newton-Euler Algorithm (RNEA) for inverse dynamics, the Composite Rigid Body Algorithm (CRBA) for the efficient computation of the joint space inertia matrix and is also able to compute forward dynamics with external contact constraints and collision impulses. Furthermore it has some basic support for forward and inverse kinematics.",
+            "homepage": null,
             "id": 208891294,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-09T20:32:53Z",
+            "open_issues": 33,
             "owner": "rbdl",
             "repo": "rbdl",
-            "stars": 705
+            "stars": 705,
+            "topics": [
+              "articulated-body-algorithm",
+              "forward-dynamics",
+              "inverse-dynamics",
+              "inverse-kinematics",
+              "multi-body-dynamics",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -90,12 +142,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.",
+            "homepage": null,
             "id": 298347380,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-26T12:02:53Z",
+            "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2568
+            "stars": 2568,
+            "topics": [
+              "autonomous-robots",
+              "autonomy",
+              "manipulation",
+              "motion-planning",
+              "physics-3d",
+              "physics-simulation",
+              "planning",
+              "robot",
+              "robot-manipulator",
+              "robot-simulation",
+              "robotics-control",
+              "robotics-development",
+              "robotics-simulation",
+              "ros",
+              "simulation",
+              "trajectory-generation",
+              "tutorials",
+              "unity",
+              "unity-robotics",
+              "urdf"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         }
@@ -112,12 +190,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python sample codes and textbook for robotics algorithms.",
+            "homepage": "https://atsushisakai.github.io/PythonRobotics/",
             "id": 54376220,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T20:02:57Z",
+            "open_issues": 51,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30402
+            "stars": 30403,
+            "topics": [
+              "algorithm",
+              "animation",
+              "autonomous-driving",
+              "autonomous-navigation",
+              "autonomous-vehicles",
+              "control",
+              "cvxpy",
+              "ekf",
+              "hacktoberfest",
+              "localization",
+              "mapping",
+              "path-planning",
+              "python",
+              "robot",
+              "robotics",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -128,12 +228,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing fast hexapod robot simulator for the web. ",
+            "homepage": "https://hexapod.netlify.app",
             "id": 265562564,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-22T00:32:51Z",
+            "open_issues": 17,
             "owner": "mithi",
             "repo": "hexapod",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "forward-kinematics",
+              "hacktoberfest",
+              "hexapod",
+              "inverse-kinematics",
+              "javascript",
+              "kinematics",
+              "kinematics-model",
+              "kinematics-modelling",
+              "plotly",
+              "react",
+              "reactjs",
+              "robot",
+              "robotics",
+              "simulation",
+              "simulator",
+              "visualizers"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         }
@@ -150,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74195
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -166,12 +293,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28824
+            "stars": 28829,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -182,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -198,12 +345,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+            "homepage": "https://aiengineer.co",
             "id": 29906842,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
+            "open_issues": 72,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16237
+            "stars": 16239,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "intelligent-machines",
+              "intelligent-systems",
+              "machine-intelligence",
+              "machine-learning",
+              "neural-network",
+              "reinforcement-learning",
+              "statistical-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -214,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for computer vision ",
+            "homepage": null,
             "id": 35812923,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11186,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -230,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement learning resources curated",
+            "homepage": "http://aikorea.org/awesome-rl",
             "id": 40465212,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T22:25:44Z",
+            "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9922
+            "stars": 9924,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -246,12 +420,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of robotics libraries and software",
+            "homepage": "http://jslee02.github.io/awesome-robotics-libraries/",
             "id": 56404753,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T20:20:58Z",
+            "open_issues": 17,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3027
+            "stars": 3027,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "machine-learning",
+              "motion-planning",
+              "multibody-dynamics",
+              "optimization",
+              "robotics",
+              "robotics-libraries",
+              "robotics-library",
+              "robotics-simulation",
+              "simulation",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -262,12 +454,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Robot Operating System Version 2.0 is awesome!",
+            "homepage": "https://fkromer.github.io/awesome-ros2",
             "id": 105514647,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-18T07:40:50Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133
+            "stars": 2133,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -278,12 +479,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome links and software libraries that are useful for robots.",
+            "homepage": null,
             "id": 91040492,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-10T07:45:21Z",
+            "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "deep-learning",
+              "image-segmentation",
+              "list",
+              "lists",
+              "machine-learning",
+              "optimization",
+              "optimization-algorithms",
+              "physics",
+              "planning-algorithms",
+              "point-cloud",
+              "reinforcement-learning",
+              "robot",
+              "robotics",
+              "ros",
+              "sensors",
+              "simulation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -294,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gazebo, the simulation framework for ROS1 and ROS2 is awesome!",
+            "homepage": null,
             "id": 112123542,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-01-24T14:16:31Z",
+            "open_issues": 1,
             "owner": "fkromer",
             "repo": "awesome-gazebo",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         },
@@ -310,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources relevant to RoboCupJunior Soccer",
+            "homepage": null,
             "id": 278041837,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-05T21:11:59Z",
+            "open_issues": 0,
             "owner": "robocup-junior",
             "repo": "awesome-rcj-soccer",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
         }
@@ -324,15 +561,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:40:53.542Z",
+    "last_updated": "2026-08-29T04:17:33.702Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome Robotics resources",
+      "homepage": null,
       "id": 46938122,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-09-22T20:24:10Z",
+      "open_issues": 38,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 6985
+      "stars": 6986,
+      "topics": [
+        "robotics"
+      ]
     },
     "original_repository_sha": "067f76e8c2cbacfef976523dd6bd3c11480900ad",
     "enhanced_repository": "enhansome/enhansome-robotics",
