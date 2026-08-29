@@ -1,6 +1,6 @@
 # Awesome Robotics with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,960 | 🐛 105 | 📅 2026-08-21
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -215,12 +215,12 @@ Central repository for open-source Unity packages, tutorials, and other resource
 
 ### Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,829 | 🐛 84 | 📅 2025-05-26
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,203 | 🐛 29 | 🌐 Python | 📅 2026-08-27
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,830 | 🐛 84 | 📅 2025-05-26
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,239 | 🐛 72 | 🌐 Python | 📅 2026-08-15
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,242 | 🐛 72 | 🌐 Python | 📅 2026-08-15
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 9,924 | 🐛 7 | 📅 2023-05-25
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 9,926 | 🐛 7 | 📅 2023-05-25
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,027 | 🐛 17 | 🌐 Python | 📅 2026-08-25
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,480 | 🐛 8 | 📅 2024-01-10
