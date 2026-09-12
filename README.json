@@ -199,7 +199,7 @@
             "open_issues": 54,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30482,
+            "stars": 30488,
             "topics": [
               "algorithm",
               "animation",
@@ -237,7 +237,7 @@
             "open_issues": 17,
             "owner": "mithi",
             "repo": "hexapod",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "forward-kinematics",
               "hacktoberfest",
@@ -281,7 +281,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74297,
+            "stars": 74306,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -302,7 +302,7 @@
             "open_issues": 85,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28888,
+            "stars": 28893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -333,7 +333,7 @@
             "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23549,
+            "stars": 23553,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -354,7 +354,7 @@
             "open_issues": 73,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16434,
+            "stars": 16439,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -408,7 +408,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9947,
+            "stars": 9948,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:18:38.295Z",
+    "last_updated": "2026-09-12T08:08:16.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
@@ -573,7 +573,7 @@
       "open_issues": 40,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 7038,
+      "stars": 7039,
       "topics": [
         "robotics"
       ]
