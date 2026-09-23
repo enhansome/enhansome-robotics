@@ -19,7 +19,7 @@
             "open_issues": 83,
             "owner": "openai",
             "repo": "roboschool",
-            "stars": 2169,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -123,7 +123,7 @@
             "open_issues": 33,
             "owner": "rbdl",
             "repo": "rbdl",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "articulated-body-algorithm",
               "forward-dynamics",
@@ -147,7 +147,7 @@
             "id": 298347380,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2024-11-26T12:02:53Z",
+            "last_commit": "2026-09-22T15:03:28Z",
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
@@ -199,7 +199,7 @@
             "open_issues": 56,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30561,
+            "stars": 30571,
             "topics": [
               "algorithm",
               "animation",
@@ -237,7 +237,7 @@
             "open_issues": 17,
             "owner": "mithi",
             "repo": "hexapod",
-            "stars": 792,
+            "stars": 793,
             "topics": [
               "forward-kinematics",
               "hacktoberfest",
@@ -277,11 +277,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:54:11Z",
+            "last_commit": "2026-09-22T12:17:28Z",
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74396,
+            "stars": 74411,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -302,7 +302,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28954,
+            "stars": 28958,
             "topics": [
               "awesome",
               "awesome-list",
@@ -333,7 +333,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23569,
+            "stars": 23570,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -354,7 +354,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16540,
+            "stars": 16542,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -387,7 +387,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11188,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -408,7 +408,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9979,
+            "stars": 9980,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1491,
+            "stars": 1492,
             "topics": [
               "awesome",
               "awesome-list",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:48:48.549Z",
+    "last_updated": "2026-09-23T08:50:22.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
@@ -573,7 +573,7 @@
       "open_issues": 40,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 7185,
+      "stars": 7187,
       "topics": [
         "robotics"
       ]
