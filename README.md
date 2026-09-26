@@ -1,6 +1,6 @@
 # Awesome Robotics with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,149 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,640 | 🐛 107 | 📅 2026-09-02
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -124,7 +124,7 @@ Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 [**RBDL**](https://github.com/rbdl/rbdl) ⭐ 708 | 🐛 33 | 🌐 C++ | 📅 2025-06-09
 Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
 
-[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,582 | 🐛 56 | 🌐 C# | 📅 2026-09-22
+[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,585 | 🐛 56 | 🌐 C# | 📅 2026-09-22
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
 ### Papers
@@ -199,7 +199,7 @@ Central repository for open-source Unity packages, tutorials, and other resource
 
 ### Misc
 
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,585 | 🐛 57 | 🌐 Python | 📅 2026-09-22 - Implementations of various robotics algorithms in python
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ⭐ 30,586 | 🐛 57 | 🌐 Python | 📅 2026-09-22 - Implementations of various robotics algorithms in python
 * [Hexapod Robot Simulator](https://github.com/mithi/hexapod) ⭐ 793 | 🐛 17 | 🌐 JavaScript | 📅 2026-01-22 - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
@@ -215,18 +215,18 @@ Central repository for open-source Unity packages, tutorials, and other resource
 
 ### Related awesome lists
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,448 | 🐛 20 | 🌐 Python | 📅 2026-09-22
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,967 | 🐛 88 | 📅 2025-05-26
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,456 | 🐛 20 | 🌐 Python | 📅 2026-09-22
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,976 | 🐛 88 | 📅 2025-05-26
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,572 | 🐛 99 | 📅 2024-05-17
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,557 | 🐛 76 | 🌐 Python | 📅 2026-08-15
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 9,981 | 🐛 7 | 📅 2023-05-25
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,053 | 🐛 27 | 🌐 Python | 📅 2026-09-18
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,562 | 🐛 76 | 🌐 Python | 📅 2026-08-15
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 9,982 | 🐛 7 | 📅 2023-05-25
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,057 | 🐛 27 | 🌐 Python | 📅 2026-09-18
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,494 | 🐛 8 | 📅 2024-01-10
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,495 | 🐛 8 | 📅 2024-01-10
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo) ⚠️ Archived
 * [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer) ⭐ 93 | 🐛 0 | 📅 2026-08-05
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
