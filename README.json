@@ -65,7 +65,7 @@
             "open_issues": 138,
             "owner": "synthetos",
             "repo": "g2",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "3d-printing",
               "cnc",
@@ -195,11 +195,11 @@
             "id": 54376220,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:40:49Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-03T04:31:04Z",
+            "open_issues": 59,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30618,
+            "stars": 30621,
             "topics": [
               "algorithm",
               "animation",
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "Awesome Machine Learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,7 +281,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74506,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -289,7 +289,7 @@
         {
           "node_type": "item",
           "title": "Awesome Deep Learning",
-          "description": null,
+          "description": "ChristosChristofidis/awesome-deep-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28999,
+            "stars": 29002,
             "topics": [
               "awesome",
               "awesome-list",
@@ -320,7 +320,7 @@
         {
           "node_type": "item",
           "title": "Awesome Computer Vision",
-          "description": null,
+          "description": "jbhuang0604/awesome-computer-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "Awesome Artificial Intelligence",
-          "description": null,
+          "description": "owainlewis/awesome-artificial-intelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16597,
+            "stars": 16602,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -374,7 +374,7 @@
         {
           "node_type": "item",
           "title": "Awesome Deep Vision",
-          "description": null,
+          "description": "kjw0612/awesome-deep-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +395,7 @@
         {
           "node_type": "item",
           "title": "Awesome Reinforcement Learning",
-          "description": null,
+          "description": "aikorea/awesome-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -408,7 +408,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10000,
+            "stars": 10001,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -416,7 +416,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics Libraries",
-          "description": null,
+          "description": "jslee02/awesome-robotics-libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -429,7 +429,7 @@
             "open_issues": 28,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3066,
+            "stars": 3067,
             "topics": [
               "awesome",
               "awesome-list",
@@ -450,7 +450,7 @@
         {
           "node_type": "item",
           "title": "Awesome ROS2",
-          "description": null,
+          "description": "fkromer/awesome-ros2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -475,7 +475,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics",
-          "description": null,
+          "description": "ahundt/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1498,
+            "stars": 1499,
             "topics": [
               "awesome",
               "awesome-list",
@@ -517,7 +517,7 @@
         {
           "node_type": "item",
           "title": "Awesome Gazebo",
-          "description": null,
+          "description": "fkromer/awesome-gazebo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -538,7 +538,7 @@
         {
           "node_type": "item",
           "title": "Awesome RoboCupJunior Soccer",
-          "description": null,
+          "description": "robocup-junior/awesome-rcj-soccer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:03:22.840Z",
+    "last_updated": "2026-10-03T05:06:25.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
