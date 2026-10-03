@@ -281,7 +281,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74511,
+            "stars": 74514,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -302,7 +302,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29002,
+            "stars": 29004,
             "topics": [
               "awesome",
               "awesome-list",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:25.613Z",
+    "last_updated": "2026-10-03T09:26:27.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
