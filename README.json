@@ -151,7 +151,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2586,
+            "stars": 2588,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -195,11 +195,11 @@
             "id": 54376220,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T04:16:07Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-05T04:21:26Z",
+            "open_issues": 54,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30627,
+            "stars": 30630,
             "topics": [
               "algorithm",
               "animation",
@@ -234,10 +234,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-01-22T00:32:51Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "mithi",
             "repo": "hexapod",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "forward-kinematics",
               "hacktoberfest",
@@ -278,10 +278,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T16:49:00Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74517,
+            "stars": 74518,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -299,10 +299,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29008,
+            "stars": 29010,
             "topics": [
               "awesome",
               "awesome-list",
@@ -333,7 +333,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23588,
+            "stars": 23587,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -354,7 +354,7 @@
             "open_issues": 77,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16610,
+            "stars": 16619,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -384,10 +384,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
-            "open_issues": 49,
+            "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186,
+            "stars": 11185,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -408,7 +408,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10003,
+            "stars": 10002,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1499,
+            "stars": 1502,
             "topics": [
               "awesome",
               "awesome-list",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:05:38.172Z",
+    "last_updated": "2026-10-05T10:51:36.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
@@ -573,7 +573,7 @@
       "open_issues": 43,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 7215,
+      "stars": 7218,
       "topics": [
         "robotics"
       ]
