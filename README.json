@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "miccol",
             "repo": "ROS-Behavior-Tree",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "behavior-tree",
               "behavior-trees",
@@ -151,7 +151,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -195,11 +195,11 @@
             "id": 54376220,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T05:51:38Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-09T20:03:18Z",
+            "open_issues": 98,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30879,
+            "stars": 30887,
             "topics": [
               "algorithm",
               "animation",
@@ -237,7 +237,7 @@
             "open_issues": 18,
             "owner": "mithi",
             "repo": "hexapod",
-            "stars": 801,
+            "stars": 802,
             "topics": [
               "forward-kinematics",
               "hacktoberfest",
@@ -277,11 +277,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T16:30:10Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-09T23:05:27Z",
+            "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74785,
+            "stars": 74789,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -302,7 +302,7 @@
             "open_issues": 92,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29167,
+            "stars": 29169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -354,7 +354,7 @@
             "open_issues": 81,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16810,
+            "stars": 16814,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -387,7 +387,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11191,
+            "stars": 11192,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -408,7 +408,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10035,
+            "stars": 10036,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -425,7 +425,7 @@
             "id": 56404753,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-06T00:02:18Z",
+            "last_commit": "2026-11-09T18:27:21Z",
             "open_issues": 10,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
@@ -449,31 +449,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome ROS2",
-          "description": "fkromer/awesome-ros2",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Robot Operating System Version 2.0 is awesome!",
-            "homepage": "https://fkromer.github.io/awesome-ros2",
-            "id": 105514647,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2023-08-18T07:40:50Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "awesome-ros2",
-            "stars": 2139,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T15:40:53.542Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Robotics",
           "description": "ahundt/awesome-robotics",
           "children": [],
@@ -488,7 +463,7 @@
             "open_issues": 10,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1525,
+            "stars": 1524,
             "topics": [
               "awesome",
               "awesome-list",
@@ -516,27 +491,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome Gazebo",
-          "description": "fkromer/awesome-gazebo",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Gazebo, the simulation framework for ROS1 and ROS2 is awesome!",
-            "homepage": null,
-            "id": 112123542,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2021-01-24T14:16:31Z",
-            "open_issues": 1,
-            "owner": "fkromer",
-            "repo": "awesome-gazebo",
-            "stars": 155,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:40:53.542Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome RoboCupJunior Soccer",
           "description": "robocup-junior/awesome-rcj-soccer",
           "children": [],
@@ -547,7 +501,7 @@
             "id": 278041837,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-05T21:11:59Z",
+            "last_commit": "2026-11-10T10:51:37Z",
             "open_issues": 0,
             "owner": "robocup-junior",
             "repo": "awesome-rcj-soccer",
@@ -561,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:08:49.750Z",
+    "last_updated": "2026-11-10T11:48:01.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
@@ -570,10 +524,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-09-22T20:24:10Z",
-      "open_issues": 48,
+      "open_issues": 49,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 7287,
+      "stars": 7292,
       "topics": [
         "robotics"
       ]
