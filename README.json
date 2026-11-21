@@ -151,7 +151,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2617,
+            "stars": 2616,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -196,10 +196,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T20:03:07Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "AtsushiSakai",
             "repo": "PythonRobotics",
-            "stars": 30955,
+            "stars": 30953,
             "topics": [
               "algorithm",
               "animation",
@@ -281,7 +281,7 @@
             "open_issues": 37,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74857,
+            "stars": 74867,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -302,7 +302,7 @@
             "open_issues": 91,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29216,
+            "stars": 29217,
             "topics": [
               "awesome",
               "awesome-list",
@@ -354,7 +354,7 @@
             "open_issues": 81,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16860,
+            "stars": 16862,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -387,7 +387,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11197,
+            "stars": 11196,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:53.542Z"
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:12:09.032Z",
+    "last_updated": "2026-11-21T11:48:16.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Robotics resources",
@@ -527,7 +527,7 @@
       "open_issues": 54,
       "owner": "kiloreux",
       "repo": "awesome-robotics",
-      "stars": 7316,
+      "stars": 7315,
       "topics": [
         "robotics"
       ]
